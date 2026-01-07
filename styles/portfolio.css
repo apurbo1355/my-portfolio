@@ -86,4 +86,5 @@ nav .menu li a {
     border-radius: 25%;
     max-width: 585px;
     vertical-align: middle;
+    padding-bottom: 10px;
 }

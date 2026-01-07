@@ -52,3 +52,38 @@ nav .menu li a {
     text-decoration: none;
     color: #474747;
 }
+#banner {
+    /*border: 1px solid red;*/
+    margin: 47px 38px 0 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#banner .banner-content {
+    max-width: 585px;
+}
+#bannar .banner-content h2 {
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+    margin-bottom: 5px;
+}
+#banner .banner-content h1 {
+    font-size: 85px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 50px;
+}
+#banner .banner-content p {
+    font-size: 18px;
+    color: #474747;
+    line-height: 30px;
+    margin-bottom: 30ox;
+}
+#banner .banner-image img {
+    width: 500px;
+    height: auto;
+    border-radius: 25%;
+    max-width: 585px;
+    vertical-align: middle;
+}
